@@ -74,10 +74,10 @@ These websites helped us when we were stuck on how the layout of our website sho
 
 - Website - [MARYAM GARBA](https://github.com/masha-a-m)
 - Twitter - [MARYAM GARBA](https://twitter.com/bookoverboys)
+- Github - [AGBO HOPE](https://github.com/Younghope09)
 
 
 ### Acknowledgement
 
 We gives all thanks to God for the successful completion of our project. 
 We would also like to thank ALX Program, the founders, and our mentors for impacting on us an enormous amount of knowledge which has helped to develop our skills and has enabled us to make whole projects that we would never had thought of even starting otherwise. Thank you so much!
-
